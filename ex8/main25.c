@@ -11,4 +11,5 @@ int main()
     printf("Value of ip; %p\n",ip);
     printf("Address of ip: %p\n",&ip);
     printf("Value of *ip: %d\n",*ip);
+    return 0;
 }
